@@ -1,16 +1,12 @@
 ---
 title: "[python] 파이썬 input() 과 input().split()"
-excerpt: "[python] 파이썬 input() 과 input().split()"
 
 categories:
   - python
 tags:
   - Infomation
 
-toc: true
-toc_label: "목차"
-toc_icon: "clipboard-list"
-last_modified_at: 2020-01-06T17:53:00+9:00
+date: 2020-01-06 17:53:00
 ---
 
 # input()

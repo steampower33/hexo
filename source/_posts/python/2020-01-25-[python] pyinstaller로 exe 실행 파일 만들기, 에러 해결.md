@@ -1,6 +1,5 @@
 ---
 title: "[python] pyinstaller로 exe 실행 파일 만들기, 에러 해결"
-excerpt: "[python] pyinstaller로 exe 실행 파일 만들기, 에러 해결"
 
 categories:
   - python
@@ -12,10 +11,7 @@ tags:
   - SolveError
   - PyToExe
 
-toc: true
-toc_label: "목차"
-toc_icon: "clipboard-list"
-last_modified_at: 2020-01-25T03:00:00+9:00
+date: 2020-01-25 03:00:00
 ---
 
 ## 0. 환경

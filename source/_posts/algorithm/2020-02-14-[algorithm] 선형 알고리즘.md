@@ -1,6 +1,5 @@
 ---
 title: "[algorithm] 선형 알고리즘"
-excerpt: "[algorithm] 선형 알고리즘"
 
 categories:
   - algorithm
@@ -8,10 +7,7 @@ tags:
   - c++
   - LinearTime
 
-toc: true
-toc_label: "목차"
-toc_icon: "clipboard-list"
-last_modified_at: 2020-02-14T15:50:00+9:00
+date: 2020-02-14 15:50:00
 ---
 
 ## 1. 주어진 배열에서 가장 많이 등장하는 숫자 반환하기

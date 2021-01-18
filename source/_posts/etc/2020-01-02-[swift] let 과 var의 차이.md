@@ -1,16 +1,12 @@
 ---
 title:  "[swift] let과 var의 차이"
-excerpt: "[swift] let과 var의 차이"
 
 categories:
   - swift
 tags:
   - Information
 
-toc: true
-toc_label: "목차"
-toc_icon: "clipboard-list"
-last_modified_at: 2020-01-05T21:00:00+9:00
+date: 2020-01-05 21:00:00
 ---
 
 ## [선언]

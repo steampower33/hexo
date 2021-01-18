@@ -1,6 +1,5 @@
 ---
 title:  "[md] markdown에서 표 만들기"
-excerpt: "[md] markdown에서 표 만들기"
 
 categories:
   - md
@@ -8,10 +7,7 @@ tags:
   - MarkDown
   - HowTo
 
-toc: true
-toc_label: "목차"
-toc_icon: "clipboard-list"
-last_modified_at: 2020-01-13T17:30:00+9:00
+date: 2020-01-13 17:30:00
 ---
 
 ## 1. 예시

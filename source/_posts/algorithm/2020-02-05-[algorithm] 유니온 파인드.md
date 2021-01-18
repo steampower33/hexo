@@ -1,12 +1,12 @@
 ---
 title: "[algorithm] 유니온 파인드"
-excerpt: "[algorithm] 유니온 파인드"
 
 categories:
   - algorithm
 tags:
   - Python
   - UnionFind
+
 date: 2020-02-05 21:30:00
 ---
 
