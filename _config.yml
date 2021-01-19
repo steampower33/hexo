@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: lee seungmin
-subtitle: 'lee seungmin'
-description: 'lee seungmin'
-keywords: dev
-author: lee seungmin
+title: SeungMin Lee
+subtitle: 'SeungMin Lee'
+description: 'SeungMin Lee'
+keywords: 
+author: SeungMin Lee
 language: en
 timezone: ''
 
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: oranges
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -106,3 +106,8 @@ deploy:
   type: git
   repo: https://github.com/steampower33/steampower33.github.io.git
   branch: main
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
