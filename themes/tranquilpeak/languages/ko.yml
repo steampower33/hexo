@@ -81,7 +81,7 @@ post:
 
 author:
     # Your biography (마크다운과 HTML이 지원됩니다.)
-    bio: ""
+    bio: "None"
     # Your job
-    job: ""
+    job: "학생 개발자"
 

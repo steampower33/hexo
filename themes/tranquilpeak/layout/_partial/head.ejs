@@ -135,6 +135,7 @@ var feeds = [];
     <meta name="generator" content="<%= config.title %>">
     <title><%= title %></title>
     <meta name="author" content="<%= config.author %>">
+    <%- autoCanonical(config, page) %>
     <% if (keywords) { %>
         <meta name="keywords" content="<%= keywords %>">
     <% } %>

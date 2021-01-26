@@ -46,12 +46,12 @@ sidebar:
             title: global.archives
             url: /all-archives
             icon: fa fa-archive
-        search:
-            title: global.search
-            url: "#search"
-            icon: fa fa-search
-            # `open-algolia-search` classes are used to open algolia search modal
-            class: open-algolia-search
+        # search:
+        #     title: global.search
+        #     url: "#search"
+        #     icon: fa fa-search
+        #     # `open-algolia-search` classes are used to open algolia search modal
+        #     class: open-algolia-search
         about:
             title: global.about
             url: "#about"
@@ -81,10 +81,10 @@ sidebar:
         #     title: global.linkedin
         #     url: https://www.linkedin.com/profile/
         #     icon: fab fa-linkedin
-        mail:
-            title: global.mail
-            url: steampower33@naver.com
-            icon: fa fa-envelope
+        # mail:
+        #     title: global.mail
+        #     url: steampower33@naver.com
+        #     icon: fa fa-envelope
     rss:
         rss:
             title: global.rss

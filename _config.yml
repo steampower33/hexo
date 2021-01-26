@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SeungMin Lee
-subtitle: 'SeungMin Lee'
-description: 'SeungMin Lee'
+title: 학생개발자 이승민
+subtitle: '학생개발자 이승민'
+description: '학생개발자'
 keywords: 
-author: SeungMin Lee
-language: en
+author: 이승민
+language: ko
 timezone: ''
 
 # URL
@@ -108,6 +108,25 @@ deploy:
   branch: main
 
 feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+  # Generate both atom and rss2 feeds
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+
+nofollow:
+  enable: true
+  exclude:
+  - exclude1.com
+  - exclude2.com
+
+sitemap:
+  path: sitemap.xml
+
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: https://steampower33.github.io/sitemap.xml
